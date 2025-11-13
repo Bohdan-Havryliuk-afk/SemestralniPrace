@@ -1,17 +1,18 @@
 # Semestrální práce – Uživatelský software
 
 ## 🧾 Téma
-**Analýza dat a vizualizace v Microsoft Excelu**
+**Analýza a vizualizace dat v Microsoft Excel s využitím pokročilých funkcí a kontingenčních tabulek**
 
 ## ✍️ Popis
-Cílem práce je ukázat, jak lze pomocí programu **Microsoft Excel** zpracovávat, analyzovat a vizualizovat data.  
-Student vytvoří tabulky s daty, provede základní analýzu pomocí vzorců, filtrů a grafů a následně výsledky přehledně prezentuje.
+Cílem práce je ukázat, jak lze pomocí Microsoft Excel analyzovat a vizualizovat data pomocí pokročilých funkcí, filtrů a kontingenčních tabulek.
+Student vytvoří datové sady (např. výsledky dotazníku, finanční rozpočty, školní výsledky), provede jejich komplexní analýzu s využitím vzorců, podmíněného formátování a grafů a výsledky přehledně vizualizuje pro snadnou interpretaci.
 
 ## 📊 Obsah práce
-1. Vytvoření tabulky s daty  
-2. Analýza pomocí vzorců (SUMA, PRŮMĚR, MAX, MIN, KDYŽ, filtry, třídění)  
-3. Vizualizace pomocí grafů (sloupcové, koláčové, spojnicové)  
-4. Shrnutí výsledků
+1. Vytvoření a strukturování dat – formátování, validace dat, dynamické tabulky.
+1. Analýza dat – pokročilé vzorce (SUMIF, COUNTIF, INDEX, MATCH, XLOOKUP), filtry, třídění, podmíněné formátování.
+1. Kontingenční tabulky – tvorba a analýza souhrnných dat.
+1. Vizualizace dat – sloupcové, koláčové a spojnicové grafy, kombinované grafy, využití podmíněného formátování pro interpretaci dat.
+1. Shrnutí a doporučení – interpretace výsledků a návrhy praktického využití v reálných scénářích.
 
 
 
