@@ -13,8 +13,7 @@ Student vytvoří tabulky s daty, provede základní analýzu pomocí vzorců, f
 3. Vizualizace pomocí grafů (sloupcové, koláčové, spojnicové)  
 4. Shrnutí výsledků
 
-## 🔗 Dotazník
-(Odkaz doplním po cvičení 8)
+
 
 ---
 
