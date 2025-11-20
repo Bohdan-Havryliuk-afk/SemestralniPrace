@@ -20,3 +20,6 @@ Student vytvoří datové sady (např. výsledky dotazníku, finanční rozpočt
 
  **Autor:** Bohdan Havryliuk
  **Předmět:** Uživatelský software  
+
+Dobrý den,
+téma práce schvaluji. Pozor na citace. Hana Vojáčková
